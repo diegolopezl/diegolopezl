@@ -19,8 +19,9 @@ What I'm learning
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-<img align="left" width="47%" height="250" src="https://github-readme-stats.vercel.app/api?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-<img align="left" width="47%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img align="left" width="45%" height="250" src="https://github-readme-stats.vercel.app/api?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<img align="left" width="48.5%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<br><br>
 
 # 💾 Some of my repo's:
 
