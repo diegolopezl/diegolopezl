@@ -1,6 +1,6 @@
 
 
-# 🧑‍🏻‍💻 About Me:
+# 🧑‍💻 About Me:
 ### Hello there, I'm Diego! 👋
 I'm a Computer Science student from the Dominican Republic 🇩🇴, with a passion for Front-end Web Development. I'm proficient in HTML, CSS, and JavaScript, and have experience building responsive and user-friendly websites. I am a quick learner and always eager to expand my knowledge in new technologies. 
 <br><br>
