@@ -9,13 +9,8 @@ I'm a Computer Science student from the Dominican Republic, with a passion for F
 </a>
 <br>
 # 💻 Technologies:
-What I use:
 <br><br>
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,git" /> 
- 
-What I'm learning:
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,scss" /> 
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,git,figma" /> 
 
 # 📊 GitHub Stats:
 <img align="left" width="45%" height="250" src="https://github-readme-stats.vercel.app/api?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
