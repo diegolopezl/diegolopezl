@@ -9,7 +9,7 @@ I'm a Computer Science student from the Dominican Republic, with a passion for F
 </a>
 <br>
 # 💻 Technologies:
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,git,figma" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma" /> 
 
 # 📊 GitHub Stats:
 <img align="left" width="45%" height="250" src="https://github-readme-stats.vercel.app/api?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
