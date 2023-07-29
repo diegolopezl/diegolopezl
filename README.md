@@ -9,7 +9,6 @@ I'm a Computer Science student from the Dominican Republic, with a passion for F
 </a>
 <br>
 # 💻 Technologies:
-<br><br>
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,git,figma" /> 
 
 # 📊 GitHub Stats:
