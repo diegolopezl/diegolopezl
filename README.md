@@ -11,7 +11,7 @@ I'm a Computer Science student from the Dominican Republic, with a passion for F
 <br>
 
 # 💻 Technologies I use:
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma" /> 
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,vscode,figma,firebase,mysql" /> 
 <br>
 
 # 📊 GitHub Stats:
