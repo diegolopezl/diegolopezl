@@ -10,18 +10,10 @@ I'm a Computer Science student from the Dominican Republic, with a passion for F
 </a>
 <br>
 
-# 💻 Technologies I use:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,vscode,figma,firebase,mysql" /> 
+# 💻 Skills:
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,firebase,mysql,git,vscode,figma" /> 
 <br>
 
 # 📊 GitHub Stats:
 <img align="center" width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolopezl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-<br>
-
-# 💾 My projects:
-
-<a href="https://github.com/diegolopezl/restaurant-website">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=diegolopezl&repo=restaurant-website&bg_color=151515"/>
-</a>
-
 <br><br>
