@@ -2,7 +2,7 @@
 
 # 🧑‍💻 About Me:
 ### Hello there, I'm Diego! 👋
-I'm a Computer Science student from the Dominican Republic, with a passion for Front-end Web Development. I'm proficient in HTML, CSS, and JavaScript, and have experience building responsive and user-friendly websites. I am a quick learner and always eager to expand my knowledge in new technologies. 
+I'm a Computer Science Engineer graduated from the DR 🇩🇴, with a passion for Front-End Web Development. I am a quick learner and always eager to expand my knowledge in new technologies. I love bringing ideas to life through code, crafting experiences that look and feel right while maintaining a balance between design intuition and technical precision.
 <br><br>
 
 <a href="https://www.linkedin.com/in/dlopezl/">
